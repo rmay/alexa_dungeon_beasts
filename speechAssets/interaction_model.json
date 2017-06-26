@@ -1,0 +1,1809 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "BeastNameIntent",
+      "samples": [
+        "Look up {beastName}",
+        "Find {beastName}",
+        "Search for {beastName}",
+        "Tell me about {beastName}",
+        "Stats {beastName}"
+      ],
+      "slots": [
+        {
+          "name": "beastName",
+          "type": "beastNames",
+          "samples": []
+        }
+      ]
+    },
+    {
+      "name": "MoreInfoIntent",
+      "samples": [
+        "More Info",
+        "More",
+        "More Information"
+      ],
+      "slots": []
+    }
+  ],
+  "types": [
+    {
+      "name": "beastNames",
+      "values": [
+        {
+          "name": {
+            "value": "Aarakocra"
+          }
+        },
+        {
+          "name": {
+            "value": "Aboleth"
+          }
+        },
+        {
+          "name": {
+            "value": "Abominable Yeti"
+          }
+        },
+        {
+          "name": {
+            "value": "Acolyte"
+          }
+        },
+        {
+          "name": {
+            "value": "Dragon"
+          }
+        },
+        {
+          "name": {
+            "value": "Allosaurus"
+          }
+        },
+        {
+          "name": {
+            "value": "Androsphinx"
+          }
+        },
+        {
+          "name": {
+            "value": "Animated Armor"
+          }
+        },
+        {
+          "name": {
+            "value": "Ankheg"
+          }
+        },
+        {
+          "name": {
+            "value": "Ankylosaurus"
+          }
+        },
+        {
+          "name": {
+            "value": "Ape"
+          }
+        },
+        {
+          "name": {
+            "value": "Arcanaloth"
+          }
+        },
+        {
+          "name": {
+            "value": "Archmage"
+          }
+        },
+        {
+          "name": {
+            "value": "Assassin"
+          }
+        },
+        {
+          "name": {
+            "value": "Avatar of Death"
+          }
+        },
+        {
+          "name": {
+            "value": "Awakened Shrub"
+          }
+        },
+        {
+          "name": {
+            "value": "Awakened Tree"
+          }
+        },
+        {
+          "name": {
+            "value": "Axe Beak"
+          }
+        },
+        {
+          "name": {
+            "value": "Azer"
+          }
+        },
+        {
+          "name": {
+            "value": "Baboon"
+          }
+        },
+        {
+          "name": {
+            "value": "Badger"
+          }
+        },
+        {
+          "name": {
+            "value": "Balor"
+          }
+        },
+        {
+          "name": {
+            "value": "Bandit"
+          }
+        },
+        {
+          "name": {
+            "value": "Banshee"
+          }
+        },
+        {
+          "name": {
+            "value": "Barbed Devil"
+          }
+        },
+        {
+          "name": {
+            "value": "Barlgura"
+          }
+        },
+        {
+          "name": {
+            "value": "Basilisk"
+          }
+        },
+        {
+          "name": {
+            "value": "Bat"
+          }
+        },
+        {
+          "name": {
+            "value": "Bearded Devil"
+          }
+        },
+        {
+          "name": {
+            "value": "Behir"
+          }
+        },
+        {
+          "name": {
+            "value": "Beholder"
+          }
+        },
+        {
+          "name": {
+            "value": "Berserker"
+          }
+        },
+        {
+          "name": {
+            "value": "Black Pudding"
+          }
+        },
+        {
+          "name": {
+            "value": "Blink Dog"
+          }
+        },
+        {
+          "name": {
+            "value": "Blood Hawk"
+          }
+        },
+        {
+          "name": {
+            "value": "Slaad"
+          }
+        },
+        {
+          "name": {
+            "value": "Boar"
+          }
+        },
+        {
+          "name": {
+            "value": "Bone Devil"
+          }
+        },
+        {
+          "name": {
+            "value": "Bone Naga"
+          }
+        },
+        {
+          "name": {
+            "value": "Bear"
+          }
+        },
+        {
+          "name": {
+            "value": "Bugbear"
+          }
+        },
+        {
+          "name": {
+            "value": "Bulette"
+          }
+        },
+        {
+          "name": {
+            "value": "Bullywug"
+          }
+        },
+        {
+          "name": {
+            "value": "Cambion"
+          }
+        },
+        {
+          "name": {
+            "value": "Camel"
+          }
+        },
+        {
+          "name": {
+            "value": "Carrion Crawler"
+          }
+        },
+        {
+          "name": {
+            "value": "Cat"
+          }
+        },
+        {
+          "name": {
+            "value": "Centaur"
+          }
+        },
+        {
+          "name": {
+            "value": "Chain Devil"
+          }
+        },
+        {
+          "name": {
+            "value": "Chasme"
+          }
+        },
+        {
+          "name": {
+            "value": "Chimera"
+          }
+        },
+        {
+          "name": {
+            "value": "Chuul"
+          }
+        },
+        {
+          "name": {
+            "value": "Golem"
+          }
+        },
+        {
+          "name": {
+            "value": "Cloaker"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant"
+          }
+        },
+        {
+          "name": {
+            "value": "Cockatrice"
+          }
+        },
+        {
+          "name": {
+            "value": "Commoner"
+          }
+        },
+        {
+          "name": {
+            "value": "Constrictor Snake"
+          }
+        },
+        {
+          "name": {
+            "value": "Couatl"
+          }
+        },
+        {
+          "name": {
+            "value": "Crab"
+          }
+        },
+        {
+          "name": {
+            "value": "Crawling Claw"
+          }
+        },
+        {
+          "name": {
+            "value": "Crocodile"
+          }
+        },
+        {
+          "name": {
+            "value": "Cult Fanatic"
+          }
+        },
+        {
+          "name": {
+            "value": "Cultist"
+          }
+        },
+        {
+          "name": {
+            "value": "Cyclops"
+          }
+        },
+        {
+          "name": {
+            "value": "Dao"
+          }
+        },
+        {
+          "name": {
+            "value": "Darkmantle"
+          }
+        },
+        {
+          "name": {
+            "value": "Death Dog"
+          }
+        },
+        {
+          "name": {
+            "value": "Death Knight"
+          }
+        },
+        {
+          "name": {
+            "value": "Death Tyrant"
+          }
+        },
+        {
+          "name": {
+            "value": "Deep Gnome"
+          }
+        },
+        {
+          "name": {
+            "value": "Deer"
+          }
+        },
+        {
+          "name": {
+            "value": "Demilich"
+          }
+        },
+        {
+          "name": {
+            "value": "Deva"
+          }
+        },
+        {
+          "name": {
+            "value": "Dire Wolf"
+          }
+        },
+        {
+          "name": {
+            "value": "Displacer Beast"
+          }
+        },
+        {
+          "name": {
+            "value": "Djinni"
+          }
+        },
+        {
+          "name": {
+            "value": "Doppelganger"
+          }
+        },
+        {
+          "name": {
+            "value": "Draft Horse"
+          }
+        },
+        {
+          "name": {
+            "value": "Dragon Turtle"
+          }
+        },
+        {
+          "name": {
+            "value": "Dretch"
+          }
+        },
+        {
+          "name": {
+            "value": "Drider"
+          }
+        },
+        {
+          "name": {
+            "value": "Drider Spellcaster"
+          }
+        },
+        {
+          "name": {
+            "value": "Drow"
+          }
+        },
+        {
+          "name": {
+            "value": "Druid"
+          }
+        },
+        {
+          "name": {
+            "value": "Dryad"
+          }
+        },
+        {
+          "name": {
+            "value": "Duergar"
+          }
+        },
+        {
+          "name": {
+            "value": "Duodrone"
+          }
+        },
+        {
+          "name": {
+            "value": "Eagle"
+          }
+        },
+        {
+          "name": {
+            "value": "Efreeti"
+          }
+        },
+        {
+          "name": {
+            "value": "Elephant"
+          }
+        },
+        {
+          "name": {
+            "value": "Elk"
+          }
+        },
+        {
+          "name": {
+            "value": "Empyrean"
+          }
+        },
+        {
+          "name": {
+            "value": "Erinyes"
+          }
+        },
+        {
+          "name": {
+            "value": "Ettercap"
+          }
+        },
+        {
+          "name": {
+            "value": "Ettin"
+          }
+        },
+        {
+          "name": {
+            "value": "Fire Snake"
+          }
+        },
+        {
+          "name": {
+            "value": "Flameskull"
+          }
+        },
+        {
+          "name": {
+            "value": "Flumph"
+          }
+        },
+        {
+          "name": {
+            "value": "Flying Snake"
+          }
+        },
+        {
+          "name": {
+            "value": "Flying Sword"
+          }
+        },
+        {
+          "name": {
+            "value": "Fomorian"
+          }
+        },
+        {
+          "name": {
+            "value": "Frog"
+          }
+        },
+        {
+          "name": {
+            "value": "Galeb Duhr"
+          }
+        },
+        {
+          "name": {
+            "value": "Gargoyle"
+          }
+        },
+        {
+          "name": {
+            "value": "Gas Spore"
+          }
+        },
+        {
+          "name": {
+            "value": "Gelatinous Cube"
+          }
+        },
+        {
+          "name": {
+            "value": "Ghast"
+          }
+        },
+        {
+          "name": {
+            "value": "Ghost"
+          }
+        },
+        {
+          "name": {
+            "value": "Ghoul"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Ape"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Badger"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Bat"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Boar"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Centipede"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Constrictor Snake"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Crab"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Crocodile"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Eagle"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Elk"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Fire Beetle"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Fly"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Frog"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Goat"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Hyena"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Lizard"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Octopus"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Owl"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Poisonous Snake"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Rat"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Scorpion"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Sea Horse"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Shark"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Spider"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Toad"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Vulture"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Wasp"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Weasel"
+          }
+        },
+        {
+          "name": {
+            "value": "Giant Wolf Spider"
+          }
+        },
+        {
+          "name": {
+            "value": "Gibbering Mouther"
+          }
+        },
+        {
+          "name": {
+            "value": "Githyanki"
+          }
+        },
+        {
+          "name": {
+            "value": "Glabrezu"
+          }
+        },
+        {
+          "name": {
+            "value": "Gladiator"
+          }
+        },
+        {
+          "name": {
+            "value": "Gnoll"
+          }
+        },
+        {
+          "name": {
+            "value": "Goat"
+          }
+        },
+        {
+          "name": {
+            "value": "Goblin"
+          }
+        },
+        {
+          "name": {
+            "value": "Goblin Boss"
+          }
+        },
+        {
+          "name": {
+            "value": "Gorgon"
+          }
+        },
+        {
+          "name": {
+            "value": "Goristro"
+          }
+        },
+        {
+          "name": {
+            "value": "Gray Ooze"
+          }
+        },
+        {
+          "name": {
+            "value": "Green Hag"
+          }
+        },
+        {
+          "name": {
+            "value": "Grell"
+          }
+        },
+        {
+          "name": {
+            "value": "Grick"
+          }
+        },
+        {
+          "name": {
+            "value": "Grick Alpha"
+          }
+        },
+        {
+          "name": {
+            "value": "Griffon"
+          }
+        },
+        {
+          "name": {
+            "value": "Grimlock"
+          }
+        },
+        {
+          "name": {
+            "value": "Guard"
+          }
+        },
+        {
+          "name": {
+            "value": "Guardian Naga"
+          }
+        },
+        {
+          "name": {
+            "value": "Gynosphinx"
+          }
+        },
+        {
+          "name": {
+            "value": "Half-Ogre"
+          }
+        },
+        {
+          "name": {
+            "value": "Half-Red Dragon Veteran"
+          }
+        },
+        {
+          "name": {
+            "value": "Harpy"
+          }
+        },
+        {
+          "name": {
+            "value": "Hawk"
+          }
+        },
+        {
+          "name": {
+            "value": "Hell Hound"
+          }
+        },
+        {
+          "name": {
+            "value": "Helmed Horror"
+          }
+        },
+        {
+          "name": {
+            "value": "Hezrou"
+          }
+        },
+        {
+          "name": {
+            "value": "Hippogriff"
+          }
+        },
+        {
+          "name": {
+            "value": "Hobgoblin"
+          }
+        },
+        {
+          "name": {
+            "value": "Homunculus"
+          }
+        },
+        {
+          "name": {
+            "value": "Hook Horror"
+          }
+        },
+        {
+          "name": {
+            "value": "Horned Devil"
+          }
+        },
+        {
+          "name": {
+            "value": "Hunter Shark"
+          }
+        },
+        {
+          "name": {
+            "value": "Hydra"
+          }
+        },
+        {
+          "name": {
+            "value": "Hyena"
+          }
+        },
+        {
+          "name": {
+            "value": "Ice Devil"
+          }
+        },
+        {
+          "name": {
+            "value": "Ice Devil Spear"
+          }
+        },
+        {
+          "name": {
+            "value": "Mephit"
+          }
+        },
+        {
+          "name": {
+            "value": "Imp"
+          }
+        },
+        {
+          "name": {
+            "value": "Intellect Devourer"
+          }
+        },
+        {
+          "name": {
+            "value": "Invisible Stalker"
+          }
+        },
+        {
+          "name": {
+            "value": "Jackal"
+          }
+        },
+        {
+          "name": {
+            "value": "Jackalwere"
+          }
+        },
+        {
+          "name": {
+            "value": "Kenku"
+          }
+        },
+        {
+          "name": {
+            "value": "Killer Whale"
+          }
+        },
+        {
+          "name": {
+            "value": "Knight"
+          }
+        },
+        {
+          "name": {
+            "value": "Kobold"
+          }
+        },
+        {
+          "name": {
+            "value": "Kraken"
+          }
+        },
+        {
+          "name": {
+            "value": "Kuo-Toa"
+          }
+        },
+        {
+          "name": {
+            "value": "Lamia"
+          }
+        },
+        {
+          "name": {
+            "value": "Lemure"
+          }
+        },
+        {
+          "name": {
+            "value": "Lich"
+          }
+        },
+        {
+          "name": {
+            "value": "Lion"
+          }
+        },
+        {
+          "name": {
+            "value": "Lizard"
+          }
+        },
+        {
+          "name": {
+            "value": "Lizard King"
+          }
+        },
+        {
+          "name": {
+            "value": "Lizardfolk"
+          }
+        },
+        {
+          "name": {
+            "value": "Lizardfolk Shaman"
+          }
+        },
+        {
+          "name": {
+            "value": "Mage"
+          }
+        },
+        {
+          "name": {
+            "value": "Magmin"
+          }
+        },
+        {
+          "name": {
+            "value": "Mammoth"
+          }
+        },
+        {
+          "name": {
+            "value": "Manes"
+          }
+        },
+        {
+          "name": {
+            "value": "Manticore"
+          }
+        },
+        {
+          "name": {
+            "value": "Marid"
+          }
+        },
+        {
+          "name": {
+            "value": "Marilith"
+          }
+        },
+        {
+          "name": {
+            "value": "Mastiff"
+          }
+        },
+        {
+          "name": {
+            "value": "Medusa"
+          }
+        },
+        {
+          "name": {
+            "value": "Merfolk"
+          }
+        },
+        {
+          "name": {
+            "value": "Merrow"
+          }
+        },
+        {
+          "name": {
+            "value": "Mezzoloth"
+          }
+        },
+        {
+          "name": {
+            "value": "Mimic"
+          }
+        },
+        {
+          "name": {
+            "value": "Mind Flayer"
+          }
+        },
+        {
+          "name": {
+            "value": "Mind Flayer Arcanist"
+          }
+        },
+        {
+          "name": {
+            "value": "Minotaur"
+          }
+        },
+        {
+          "name": {
+            "value": "Minotaur Skeleton"
+          }
+        },
+        {
+          "name": {
+            "value": "Monodrone"
+          }
+        },
+        {
+          "name": {
+            "value": "Mule"
+          }
+        },
+        {
+          "name": {
+            "value": "Mummy"
+          }
+        },
+        {
+          "name": {
+            "value": "Mummy Lord"
+          }
+        },
+        {
+          "name": {
+            "value": "Myconid"
+          }
+        },
+        {
+          "name": {
+            "value": "Nalfeshnee"
+          }
+        },
+        {
+          "name": {
+            "value": "Needle Blight"
+          }
+        },
+        {
+          "name": {
+            "value": "Night Hag"
+          }
+        },
+        {
+          "name": {
+            "value": "Nightmare"
+          }
+        },
+        {
+          "name": {
+            "value": "Noble"
+          }
+        },
+        {
+          "name": {
+            "value": "Nothic"
+          }
+        },
+        {
+          "name": {
+            "value": "Nycaloth"
+          }
+        },
+        {
+          "name": {
+            "value": "Ochre Jelly"
+          }
+        },
+        {
+          "name": {
+            "value": "Octopus"
+          }
+        },
+        {
+          "name": {
+            "value": "Ogre"
+          }
+        },
+        {
+          "name": {
+            "value": "Ogre Zombie"
+          }
+        },
+        {
+          "name": {
+            "value": "Oni"
+          }
+        },
+        {
+          "name": {
+            "value": "Orc"
+          }
+        },
+        {
+          "name": {
+            "value": "Orog"
+          }
+        },
+        {
+          "name": {
+            "value": "Otyugh"
+          }
+        },
+        {
+          "name": {
+            "value": "Owl"
+          }
+        },
+        {
+          "name": {
+            "value": "Owlbear"
+          }
+        },
+        {
+          "name": {
+            "value": "Panther"
+          }
+        },
+        {
+          "name": {
+            "value": "Pegasus"
+          }
+        },
+        {
+          "name": {
+            "value": "Pentadrone"
+          }
+        },
+        {
+          "name": {
+            "value": "Peryton"
+          }
+        },
+        {
+          "name": {
+            "value": "Phase Spider"
+          }
+        },
+        {
+          "name": {
+            "value": "Piercer"
+          }
+        },
+        {
+          "name": {
+            "value": "Pit Fiend"
+          }
+        },
+        {
+          "name": {
+            "value": "Pixie"
+          }
+        },
+        {
+          "name": {
+            "value": "Planetar"
+          }
+        },
+        {
+          "name": {
+            "value": "Plesiosaurus"
+          }
+        },
+        {
+          "name": {
+            "value": "Poisonous Snake"
+          }
+        },
+        {
+          "name": {
+            "value": "Poltergeist"
+          }
+        },
+        {
+          "name": {
+            "value": "Pony"
+          }
+        },
+        {
+          "name": {
+            "value": "Priest"
+          }
+        },
+        {
+          "name": {
+            "value": "Pseudodragon"
+          }
+        },
+        {
+          "name": {
+            "value": "Pteranodon"
+          }
+        },
+        {
+          "name": {
+            "value": "Purple Worm"
+          }
+        },
+        {
+          "name": {
+            "value": "Quadrone"
+          }
+        },
+        {
+          "name": {
+            "value": "Quaggoth"
+          }
+        },
+        {
+          "name": {
+            "value": "Quaggoth Spore Servant"
+          }
+        },
+        {
+          "name": {
+            "value": "Quaggoth Thonot"
+          }
+        },
+        {
+          "name": {
+            "value": "Quasit"
+          }
+        },
+        {
+          "name": {
+            "value": "Quipper"
+          }
+        },
+        {
+          "name": {
+            "value": "Rakshasa"
+          }
+        },
+        {
+          "name": {
+            "value": "Rat"
+          }
+        },
+        {
+          "name": {
+            "value": "Raven"
+          }
+        },
+        {
+          "name": {
+            "value": "Reef Shark"
+          }
+        },
+        {
+          "name": {
+            "value": "Remorhaz"
+          }
+        },
+        {
+          "name": {
+            "value": "Revenant"
+          }
+        },
+        {
+          "name": {
+            "value": "Rhinoceros"
+          }
+        },
+        {
+          "name": {
+            "value": "Riding Horse"
+          }
+        },
+        {
+          "name": {
+            "value": "Roc"
+          }
+        },
+        {
+          "name": {
+            "value": "Roper"
+          }
+        },
+        {
+          "name": {
+            "value": "Rug of Smothering"
+          }
+        },
+        {
+          "name": {
+            "value": "Rust Monster"
+          }
+        },
+        {
+          "name": {
+            "value": "Saber-Toothed Tiger"
+          }
+        },
+        {
+          "name": {
+            "value": "Sahuagin"
+          }
+        },
+        {
+          "name": {
+            "value": "Salamander"
+          }
+        },
+        {
+          "name": {
+            "value": "Satyr"
+          }
+        },
+        {
+          "name": {
+            "value": "Scarecrow"
+          }
+        },
+        {
+          "name": {
+            "value": "Scorpion"
+          }
+        },
+        {
+          "name": {
+            "value": "Scout"
+          }
+        },
+        {
+          "name": {
+            "value": "Sea Hag"
+          }
+        },
+        {
+          "name": {
+            "value": "Sea Horse"
+          }
+        },
+        {
+          "name": {
+            "value": "Shadow"
+          }
+        },
+        {
+          "name": {
+            "value": "Shadow Demon"
+          }
+        },
+        {
+          "name": {
+            "value": "Shambling Mound"
+          }
+        },
+        {
+          "name": {
+            "value": "Shield Guardian"
+          }
+        },
+        {
+          "name": {
+            "value": "Shrieker"
+          }
+        },
+        {
+          "name": {
+            "value": "Skeleton"
+          }
+        },
+        {
+          "name": {
+            "value": "Solar"
+          }
+        },
+        {
+          "name": {
+            "value": "Spectator"
+          }
+        },
+        {
+          "name": {
+            "value": "Specter"
+          }
+        },
+        {
+          "name": {
+            "value": "Spider"
+          }
+        },
+        {
+          "name": {
+            "value": "Spined Devil"
+          }
+        },
+        {
+          "name": {
+            "value": "Spirit Naga"
+          }
+        },
+        {
+          "name": {
+            "value": "Sprite"
+          }
+        },
+        {
+          "name": {
+            "value": "Spy"
+          }
+        },
+        {
+          "name": {
+            "value": "Stirge"
+          }
+        },
+        {
+          "name": {
+            "value": "Succubus"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Bats"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Beetles"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Centipedes"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Insects"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Poisonous Snakes"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Quippers"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Rats"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Ravens"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Spiders"
+          }
+        },
+        {
+          "name": {
+            "value": "Swarm of Wasps"
+          }
+        },
+        {
+          "name": {
+            "value": "Tarrasque"
+          }
+        },
+        {
+          "name": {
+            "value": "Thri-kreen"
+          }
+        },
+        {
+          "name": {
+            "value": "Thug"
+          }
+        },
+        {
+          "name": {
+            "value": "Tiger"
+          }
+        },
+        {
+          "name": {
+            "value": "Treant"
+          }
+        },
+        {
+          "name": {
+            "value": "Tribal Warrior"
+          }
+        },
+        {
+          "name": {
+            "value": "Triceratops"
+          }
+        },
+        {
+          "name": {
+            "value": "Tridrone"
+          }
+        },
+        {
+          "name": {
+            "value": "Troglodyte"
+          }
+        },
+        {
+          "name": {
+            "value": "Troll"
+          }
+        },
+        {
+          "name": {
+            "value": "Twig Blight"
+          }
+        },
+        {
+          "name": {
+            "value": "Tyrannosaurus Rex"
+          }
+        },
+        {
+          "name": {
+            "value": "Ultroloth"
+          }
+        },
+        {
+          "name": {
+            "value": "Umber Hulk"
+          }
+        },
+        {
+          "name": {
+            "value": "Unicorn"
+          }
+        },
+        {
+          "name": {
+            "value": "Vampire"
+          }
+        },
+        {
+          "name": {
+            "value": "Veteran"
+          }
+        },
+        {
+          "name": {
+            "value": "Vine Blight"
+          }
+        },
+        {
+          "name": {
+            "value": "Violet Fungus"
+          }
+        },
+        {
+          "name": {
+            "value": "Vrock"
+          }
+        },
+        {
+          "name": {
+            "value": "Vulture"
+          }
+        },
+        {
+          "name": {
+            "value": "Warhorse"
+          }
+        },
+        {
+          "name": {
+            "value": "Warhorse Skeleton"
+          }
+        },
+        {
+          "name": {
+            "value": "Water Weird"
+          }
+        },
+        {
+          "name": {
+            "value": "Weasel"
+          }
+        },
+        {
+          "name": {
+            "value": "Werebear"
+          }
+        },
+        {
+          "name": {
+            "value": "Wereboar"
+          }
+        },
+        {
+          "name": {
+            "value": "Wererat"
+          }
+        },
+        {
+          "name": {
+            "value": "Weretiger"
+          }
+        },
+        {
+          "name": {
+            "value": "Werewolf"
+          }
+        },
+        {
+          "name": {
+            "value": "Wight"
+          }
+        },
+        {
+          "name": {
+            "value": "Will-o-Wisp"
+          }
+        },
+        {
+          "name": {
+            "value": "Winged Kobold"
+          }
+        },
+        {
+          "name": {
+            "value": "Winter Wolf"
+          }
+        },
+        {
+          "name": {
+            "value": "Wolf"
+          }
+        },
+        {
+          "name": {
+            "value": "Worg"
+          }
+        },
+        {
+          "name": {
+            "value": "Wraith"
+          }
+        },
+        {
+          "name": {
+            "value": "Wyvern"
+          }
+        },
+        {
+          "name": {
+            "value": "Xorn"
+          }
+        },
+        {
+          "name": {
+            "value": "Yeti"
+          }
+        },
+        {
+          "name": {
+            "value": "Yochlol"
+          }
+        },
+        {
+          "name": {
+            "value": "Young Remorhaz"
+          }
+        },
+        {
+          "name": {
+            "value": "Yuan-ti"
+          }
+        },
+        {
+          "name": {
+            "value": "Zombie"
+          }
+        },
+        {
+          "name": {
+            "value": "Dragons"
+          }
+        },
+        {
+          "name": {
+            "value": "Skeletons"
+          }
+        },
+        {
+          "name": {
+            "value": "Orcs"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.2d0e7364-1f16-4788-a773-7d093f58a1f4",
+    "application": {
+      "applicationId": "amzn1.ask.skill.61389dc7-9e45-4fee-b91b-6fa7270e1070"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AEZZL6GOYRAGOPILMZFWHQKLGHKL6A2LHXZI2ZVIGAQS7QX6DFBRFNI47NLLVAQF6EZKUL4HMDUKCSCUPXDP3DCCUVJHG4GO2HPIEMJAGABYFOWRT7CTK3MIEAZUZP3LUIBAVTUVRXV6FRWJR7C3N2O4DQSPG5ONP5JJPJJDMINZJ4QRSEJMGOGHFODQFQLE3OKTA65JLDSZY5Q"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.fce98a00-0c59-48c8-8d14-acc179ae3c98",
+    "locale": "en-US",
+    "timestamp": "2017-01-03T21:19:30Z",
+    "intent": {
+      "name": "BeastNameIntent",
+      "slots": {
+        "beastName": {
+          "name": "beastName",
+          "value": "Dragon"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

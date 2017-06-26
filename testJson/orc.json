@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.b9bd95fc-9cc7-4419-9204-1357661b7edd",
+    "application": {
+      "applicationId": "amzn1.ask.skill.a842d7c4-337b-4720-8480-dd07a54192bc"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFDN6WPPBM2SSRLGW6I2YSTNNSNS2TCYREWLJSDLZFHDV7TODSAMTSNX7ZIPEBQQNBXA5RQUTYH5CM2T6V3UGTJO7P4TKCOCOYALUBVAHCBLHG6VOUEKK2FCRLETB5LTKTCJCNY4TLYD4LN7OZ5MMRT6YG575D6445D4JLZUIIF442KYR4EPQGRPE3A6W72YNINDKJ26YQNJHYI"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.4a46257b-fdc8-4063-a110-0abe041b9373",
+    "locale": "en-US",
+    "timestamp": "2017-06-13T19:08:17Z",
+    "intent": {
+      "name": "BeastNameIntent",
+      "slots": {
+        "beastName": {
+          "name": "beastName",
+          "value": "orc"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
