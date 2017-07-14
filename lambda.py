@@ -9,6 +9,8 @@ import urllib
 import boto3
 from boto3.dynamodb.conditions import Key, Attr
 
+import pdb
+
 VERSION = 1.0
 
 # --------------- Helpers that build all of the responses ----------------------
@@ -211,6 +213,7 @@ def beast_by_name(intent, session):
         beast_info = ""
         session_attributes = ""
         single_beast = False
+
         beast_name = singularize((intent['slots']['beastName']['value']).title())
 
         print('Beast name: ', beast_name)
@@ -365,7 +368,7 @@ def get_legendaries(legendaries):
     if len(legendaries) == 0:
         return "None"
     else:
-        ", ".join(beast_data['legendaries'])
+        return ", ".join(legendaries)
 
 
 def singularize(name):
@@ -383,4 +386,8 @@ def singularize(name):
         new_name = "Wolf"
     if name == "Vampires":
         new_name = "Vampire"
+    if name == "Trolls":
+        new_name = "Troll"
+    if name == "Be Holders":
+        new_name = "Beholder"
     return new_name
