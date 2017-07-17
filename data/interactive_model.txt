@@ -1,0 +1,217 @@
+{
+          "id": null,
+          "name": {
+            "value": "Adult Black Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Blue Dracolich",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Blue Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Brass Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Bronze Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Copper Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Gold Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Green Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Red Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult Silver Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Adult White Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Black Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Blue Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Brass Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Bronze Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Copper Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Gold Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Green Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Red Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient Silver Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Ancient White Dragon",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Black Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Blue Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Brass Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Bronze Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Copper Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Gold Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Green Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Red Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "Silver Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
+{
+          "id": null,
+          "name": {
+            "value": "White Dragon Wyrmling",
+            "synonyms": []
+          }
+        },
