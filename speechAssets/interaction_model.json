@@ -44,1763 +44,2684 @@
       "name": "beastNames",
       "values": [
         {
+          "id": null,
           "name": {
-            "value": "Aarakocra"
+            "value": "Aarakocra",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Aboleth"
+            "value": "Aboleth",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Abominable Yeti"
+            "value": "Abominable Yeti",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Acolyte"
+            "value": "Acolyte",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Dragon"
+            "value": "Dragon",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Allosaurus"
+            "value": "Allosaurus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Androsphinx"
+            "value": "Androsphinx",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Animated Armor"
+            "value": "Animated Armor",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ankheg"
+            "value": "Ankheg",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ankylosaurus"
+            "value": "Ankylosaurus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ape"
+            "value": "Ape",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Arcanaloth"
+            "value": "Arcanaloth",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Archmage"
+            "value": "Archmage",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Assassin"
+            "value": "Assassin",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Avatar of Death"
+            "value": "Avatar of Death",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Awakened Shrub"
+            "value": "Awakened Shrub",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Awakened Tree"
+            "value": "Awakened Tree",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Axe Beak"
+            "value": "Axe Beak",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Azer"
+            "value": "Azer",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Baboon"
+            "value": "Baboon",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Badger"
+            "value": "Badger",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Balor"
+            "value": "Balor",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bandit"
+            "value": "Bandit",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Banshee"
+            "value": "Banshee",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Barbed Devil"
+            "value": "Barbed Devil",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Barlgura"
+            "value": "Barlgura",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Basilisk"
+            "value": "Basilisk",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bat"
+            "value": "Bat",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bearded Devil"
+            "value": "Bearded Devil",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Behir"
+            "value": "Behir",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Beholder"
+            "value": "Beholder",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Berserker"
+            "value": "Berserker",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Black Pudding"
+            "value": "Black Pudding",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Blink Dog"
+            "value": "Blink Dog",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Blood Hawk"
+            "value": "Blood Hawk",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Slaad"
+            "value": "Slaad",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Boar"
+            "value": "Boar",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bone Devil"
+            "value": "Bone Devil",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bone Naga"
+            "value": "Bone Naga",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bear"
+            "value": "Bear",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bugbear"
+            "value": "Bugbear",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bulette"
+            "value": "Bulette",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Bullywug"
+            "value": "Bullywug",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Cambion"
+            "value": "Cambion",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Camel"
+            "value": "Camel",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Carrion Crawler"
+            "value": "Carrion Crawler",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Cat"
+            "value": "Cat",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Centaur"
+            "value": "Centaur",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Chain Devil"
+            "value": "Chain Devil",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Chasme"
+            "value": "Chasme",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Chimera"
+            "value": "Chimera",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Chuul"
+            "value": "Chuul",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Golem"
+            "value": "Golem",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Cloaker"
+            "value": "Cloaker",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant"
+            "value": "Giant",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Cockatrice"
+            "value": "Cockatrice",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Commoner"
+            "value": "Commoner",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Constrictor Snake"
+            "value": "Constrictor Snake",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Couatl"
+            "value": "Couatl",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Crab"
+            "value": "Crab",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Crawling Claw"
+            "value": "Crawling Claw",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Crocodile"
+            "value": "Crocodile",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Cult Fanatic"
+            "value": "Cult Fanatic",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Cultist"
+            "value": "Cultist",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Cyclops"
+            "value": "Cyclops",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Dao"
+            "value": "Dao",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Darkmantle"
+            "value": "Darkmantle",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Death Dog"
+            "value": "Death Dog",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Death Knight"
+            "value": "Death Knight",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Death Tyrant"
+            "value": "Death Tyrant",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Deep Gnome"
+            "value": "Deep Gnome",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Deer"
+            "value": "Deer",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Demilich"
+            "value": "Demilich",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Deva"
+            "value": "Deva",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Dire Wolf"
+            "value": "Dire Wolf",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Displacer Beast"
+            "value": "Displacer Beast",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Djinni"
+            "value": "Djinni",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Doppelganger"
+            "value": "Doppelganger",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Draft Horse"
+            "value": "Draft Horse",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Dragon Turtle"
+            "value": "Dragon Turtle",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Dretch"
+            "value": "Dretch",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Drider"
+            "value": "Drider",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Drider Spellcaster"
+            "value": "Drider Spellcaster",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Drow"
+            "value": "Drow",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Druid"
+            "value": "Druid",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Dryad"
+            "value": "Dryad",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Duergar"
+            "value": "Duergar",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Duodrone"
+            "value": "Duodrone",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Eagle"
+            "value": "Eagle",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Efreeti"
+            "value": "Efreeti",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Elephant"
+            "value": "Elephant",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Elk"
+            "value": "Elk",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Empyrean"
+            "value": "Empyrean",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Erinyes"
+            "value": "Erinyes",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ettercap"
+            "value": "Ettercap",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ettin"
+            "value": "Ettin",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Fire Snake"
+            "value": "Fire Snake",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Flameskull"
+            "value": "Flameskull",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Flumph"
+            "value": "Flumph",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Flying Snake"
+            "value": "Flying Snake",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Flying Sword"
+            "value": "Flying Sword",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Fomorian"
+            "value": "Fomorian",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Frog"
+            "value": "Frog",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Galeb Duhr"
+            "value": "Galeb Duhr",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gargoyle"
+            "value": "Gargoyle",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gas Spore"
+            "value": "Gas Spore",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gelatinous Cube"
+            "value": "Gelatinous Cube",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ghast"
+            "value": "Ghast",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ghost"
+            "value": "Ghost",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ghoul"
+            "value": "Ghoul",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Ape"
+            "value": "Giant Ape",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Badger"
+            "value": "Giant Badger",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Bat"
+            "value": "Giant Bat",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Boar"
+            "value": "Giant Boar",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Centipede"
+            "value": "Giant Centipede",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Constrictor Snake"
+            "value": "Giant Constrictor Snake",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Crab"
+            "value": "Giant Crab",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Crocodile"
+            "value": "Giant Crocodile",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Eagle"
+            "value": "Giant Eagle",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Elk"
+            "value": "Giant Elk",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Fire Beetle"
+            "value": "Giant Fire Beetle",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Fly"
+            "value": "Giant Fly",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Frog"
+            "value": "Giant Frog",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Goat"
+            "value": "Giant Goat",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Hyena"
+            "value": "Giant Hyena",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Lizard"
+            "value": "Giant Lizard",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Octopus"
+            "value": "Giant Octopus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Owl"
+            "value": "Giant Owl",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Poisonous Snake"
+            "value": "Giant Poisonous Snake",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Rat"
+            "value": "Giant Rat",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Scorpion"
+            "value": "Giant Scorpion",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Sea Horse"
+            "value": "Giant Sea Horse",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Shark"
+            "value": "Giant Shark",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Spider"
+            "value": "Giant Spider",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Toad"
+            "value": "Giant Toad",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Vulture"
+            "value": "Giant Vulture",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Wasp"
+            "value": "Giant Wasp",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Weasel"
+            "value": "Giant Weasel",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Giant Wolf Spider"
+            "value": "Giant Wolf Spider",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gibbering Mouther"
+            "value": "Gibbering Mouther",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Githyanki"
+            "value": "Githyanki",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Glabrezu"
+            "value": "Glabrezu",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gladiator"
+            "value": "Gladiator",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gnoll"
+            "value": "Gnoll",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Goat"
+            "value": "Goat",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Goblin"
+            "value": "Goblin",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Goblin Boss"
+            "value": "Goblin Boss",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gorgon"
+            "value": "Gorgon",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Goristro"
+            "value": "Goristro",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gray Ooze"
+            "value": "Gray Ooze",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Green Hag"
+            "value": "Green Hag",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Grell"
+            "value": "Grell",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Grick"
+            "value": "Grick",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Grick Alpha"
+            "value": "Grick Alpha",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Griffon"
+            "value": "Griffon",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Grimlock"
+            "value": "Grimlock",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Guard"
+            "value": "Guard",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Guardian Naga"
+            "value": "Guardian Naga",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Gynosphinx"
+            "value": "Gynosphinx",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Half-Ogre"
+            "value": "Half-Ogre",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Half-Red Dragon Veteran"
+            "value": "Half-Red Dragon Veteran",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Harpy"
+            "value": "Harpy",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hawk"
+            "value": "Hawk",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hell Hound"
+            "value": "Hell Hound",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Helmed Horror"
+            "value": "Helmed Horror",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hezrou"
+            "value": "Hezrou",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hippogriff"
+            "value": "Hippogriff",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hobgoblin"
+            "value": "Hobgoblin",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Homunculus"
+            "value": "Homunculus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hook Horror"
+            "value": "Hook Horror",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Horned Devil"
+            "value": "Horned Devil",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hunter Shark"
+            "value": "Hunter Shark",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hydra"
+            "value": "Hydra",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Hyena"
+            "value": "Hyena",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ice Devil"
+            "value": "Ice Devil",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ice Devil Spear"
+            "value": "Ice Devil Spear",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mephit"
+            "value": "Mephit",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Imp"
+            "value": "Imp",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Intellect Devourer"
+            "value": "Intellect Devourer",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Invisible Stalker"
+            "value": "Invisible Stalker",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Jackal"
+            "value": "Jackal",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Jackalwere"
+            "value": "Jackalwere",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Kenku"
+            "value": "Kenku",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Killer Whale"
+            "value": "Killer Whale",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Knight"
+            "value": "Knight",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Kobold"
+            "value": "Kobold",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Kraken"
+            "value": "Kraken",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Kuo-Toa"
+            "value": "Kuo-Toa",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Lamia"
+            "value": "Lamia",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Lemure"
+            "value": "Lemure",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Lich"
+            "value": "Lich",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Lion"
+            "value": "Lion",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Lizard"
+            "value": "Lizard",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Lizard King"
+            "value": "Lizard King",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Lizardfolk"
+            "value": "Lizardfolk",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Lizardfolk Shaman"
+            "value": "Lizardfolk Shaman",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mage"
+            "value": "Mage",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Magmin"
+            "value": "Magmin",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mammoth"
+            "value": "Mammoth",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Manes"
+            "value": "Manes",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Manticore"
+            "value": "Manticore",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Marid"
+            "value": "Marid",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Marilith"
+            "value": "Marilith",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mastiff"
+            "value": "Mastiff",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Medusa"
+            "value": "Medusa",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Merfolk"
+            "value": "Merfolk",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Merrow"
+            "value": "Merrow",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mezzoloth"
+            "value": "Mezzoloth",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mimic"
+            "value": "Mimic",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mind Flayer"
+            "value": "Mind Flayer",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mind Flayer Arcanist"
+            "value": "Mind Flayer Arcanist",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Minotaur"
+            "value": "Minotaur",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Minotaur Skeleton"
+            "value": "Minotaur Skeleton",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Monodrone"
+            "value": "Monodrone",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mule"
+            "value": "Mule",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mummy"
+            "value": "Mummy",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Mummy Lord"
+            "value": "Mummy Lord",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Myconid"
+            "value": "Myconid",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Nalfeshnee"
+            "value": "Nalfeshnee",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Needle Blight"
+            "value": "Needle Blight",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Night Hag"
+            "value": "Night Hag",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Nightmare"
+            "value": "Nightmare",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Noble"
+            "value": "Noble",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Nothic"
+            "value": "Nothic",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Nycaloth"
+            "value": "Nycaloth",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ochre Jelly"
+            "value": "Ochre Jelly",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Octopus"
+            "value": "Octopus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ogre"
+            "value": "Ogre",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ogre Zombie"
+            "value": "Ogre Zombie",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Oni"
+            "value": "Oni",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Orc"
+            "value": "Orc",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Orog"
+            "value": "Orog",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Otyugh"
+            "value": "Otyugh",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Owl"
+            "value": "Owl",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Owlbear"
+            "value": "Owlbear",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Panther"
+            "value": "Panther",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Pegasus"
+            "value": "Pegasus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Pentadrone"
+            "value": "Pentadrone",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Peryton"
+            "value": "Peryton",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Phase Spider"
+            "value": "Phase Spider",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Piercer"
+            "value": "Piercer",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Pit Fiend"
+            "value": "Pit Fiend",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Pixie"
+            "value": "Pixie",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Planetar"
+            "value": "Planetar",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Plesiosaurus"
+            "value": "Plesiosaurus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Poisonous Snake"
+            "value": "Poisonous Snake",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Poltergeist"
+            "value": "Poltergeist",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Pony"
+            "value": "Pony",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Priest"
+            "value": "Priest",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Pseudodragon"
+            "value": "Pseudodragon",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Pteranodon"
+            "value": "Pteranodon",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Purple Worm"
+            "value": "Purple Worm",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Quadrone"
+            "value": "Quadrone",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Quaggoth"
+            "value": "Quaggoth",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Quaggoth Spore Servant"
+            "value": "Quaggoth Spore Servant",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Quaggoth Thonot"
+            "value": "Quaggoth Thonot",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Quasit"
+            "value": "Quasit",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Quipper"
+            "value": "Quipper",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Rakshasa"
+            "value": "Rakshasa",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Rat"
+            "value": "Rat",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Raven"
+            "value": "Raven",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Reef Shark"
+            "value": "Reef Shark",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Remorhaz"
+            "value": "Remorhaz",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Revenant"
+            "value": "Revenant",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Rhinoceros"
+            "value": "Rhinoceros",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Riding Horse"
+            "value": "Riding Horse",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Roc"
+            "value": "Roc",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Roper"
+            "value": "Roper",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Rug of Smothering"
+            "value": "Rug of Smothering",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Rust Monster"
+            "value": "Rust Monster",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Saber-Toothed Tiger"
+            "value": "Saber-Toothed Tiger",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Sahuagin"
+            "value": "Sahuagin",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Salamander"
+            "value": "Salamander",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Satyr"
+            "value": "Satyr",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Scarecrow"
+            "value": "Scarecrow",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Scorpion"
+            "value": "Scorpion",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Scout"
+            "value": "Scout",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Sea Hag"
+            "value": "Sea Hag",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Sea Horse"
+            "value": "Sea Horse",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Shadow"
+            "value": "Shadow",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Shadow Demon"
+            "value": "Shadow Demon",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Shambling Mound"
+            "value": "Shambling Mound",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Shield Guardian"
+            "value": "Shield Guardian",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Shrieker"
+            "value": "Shrieker",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Skeleton"
+            "value": "Skeleton",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Solar"
+            "value": "Solar",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Spectator"
+            "value": "Spectator",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Specter"
+            "value": "Specter",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Spider"
+            "value": "Spider",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Spined Devil"
+            "value": "Spined Devil",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Spirit Naga"
+            "value": "Spirit Naga",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Sprite"
+            "value": "Sprite",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Spy"
+            "value": "Spy",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Stirge"
+            "value": "Stirge",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Succubus"
+            "value": "Succubus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Bats"
+            "value": "Swarm of Bats",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Beetles"
+            "value": "Swarm of Beetles",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Centipedes"
+            "value": "Swarm of Centipedes",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Insects"
+            "value": "Swarm of Insects",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Poisonous Snakes"
+            "value": "Swarm of Poisonous Snakes",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Quippers"
+            "value": "Swarm of Quippers",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Rats"
+            "value": "Swarm of Rats",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Ravens"
+            "value": "Swarm of Ravens",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Spiders"
+            "value": "Swarm of Spiders",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Swarm of Wasps"
+            "value": "Swarm of Wasps",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Tarrasque"
+            "value": "Tarrasque",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Thri-kreen"
+            "value": "Thri-kreen",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Thug"
+            "value": "Thug",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Tiger"
+            "value": "Tiger",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Treant"
+            "value": "Treant",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Tribal Warrior"
+            "value": "Tribal Warrior",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Triceratops"
+            "value": "Triceratops",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Tridrone"
+            "value": "Tridrone",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Troglodyte"
+            "value": "Troglodyte",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Troll"
+            "value": "Troll",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Twig Blight"
+            "value": "Twig Blight",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Tyrannosaurus Rex"
+            "value": "Tyrannosaurus Rex",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Ultroloth"
+            "value": "Ultroloth",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Umber Hulk"
+            "value": "Umber Hulk",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Unicorn"
+            "value": "Unicorn",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Vampire"
+            "value": "Vampire",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Veteran"
+            "value": "Veteran",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Vine Blight"
+            "value": "Vine Blight",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Violet Fungus"
+            "value": "Violet Fungus",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Vrock"
+            "value": "Vrock",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Vulture"
+            "value": "Vulture",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Warhorse"
+            "value": "Warhorse",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Warhorse Skeleton"
+            "value": "Warhorse Skeleton",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Water Weird"
+            "value": "Water Weird",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Weasel"
+            "value": "Weasel",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Werebear"
+            "value": "Werebear",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Wereboar"
+            "value": "Wereboar",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Wererat"
+            "value": "Wererat",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Weretiger"
+            "value": "Weretiger",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Werewolf"
+            "value": "Werewolf",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Wight"
+            "value": "Wight",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Will-o-Wisp"
+            "value": "Will-o-Wisp",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Winged Kobold"
+            "value": "Winged Kobold",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Winter Wolf"
+            "value": "Winter Wolf",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Wolf"
+            "value": "Wolf",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Worg"
+            "value": "Worg",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Wraith"
+            "value": "Wraith",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Wyvern"
+            "value": "Wyvern",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Xorn"
+            "value": "Xorn",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Yeti"
+            "value": "Yeti",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Yochlol"
+            "value": "Yochlol",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Young Remorhaz"
+            "value": "Young Remorhaz",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Yuan-ti"
+            "value": "Yuan-ti",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Zombie"
+            "value": "Zombie",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Dragons"
+            "value": "Dragons",
+            "synonyms": []
           }
         },
         {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Black Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Blue Dracolich",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Blue Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Brass Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Bronze Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Copper Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Gold Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Green Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Red Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult Silver Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Adult White Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Black Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Blue Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Brass Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Bronze Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Copper Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Gold Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Green Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Red Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient Silver Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Ancient White Dragon",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Black Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Blue Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Brass Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Bronze Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Copper Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Gold Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Green Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Red Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "Silver Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+                  "id": null,
+                  "name": {
+                    "value": "White Dragon Wyrmling",
+                    "synonyms": []
+                  }
+                },
+        {
+          "id": null,
           "name": {
-            "value": "Skeletons"
+            "value": "Skeletons",
+            "synonyms": []
           }
         },
         {
+          "id": null,
           "name": {
-            "value": "Orcs"
+            "value": "Orcs",
+            "synonyms": []
           }
         }
       ]

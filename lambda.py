@@ -390,4 +390,10 @@ def singularize(name):
         new_name = "Troll"
     if name == "Be Holders":
         new_name = "Beholder"
+    if name == "Goblins":
+        new_name = "Goblin"
+    if name == "Succubus":
+        new_name = "Succubus/incubus"
+    if name == "Incubus":
+        new_name = "Succubus/incubus"
     return new_name
