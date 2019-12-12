@@ -174,7 +174,7 @@ def lambda_handler(event, context):
 # --------------- Functions for the core of Dungeon Beasts  -----------------
 
 def get_dynamodb_conn():
-    dynamodb = boto3.resource('dynamodb') #, endpoint_url='http://localhost:8000')
+    dynamodb = boto3.resource('dynamodb', endpoint_url='http://localhost:8000')
     return dynamodb
 
 def list_sources(intent, session):

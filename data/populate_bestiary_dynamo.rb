@@ -3,13 +3,13 @@ require 'sqlite3'
 require 'pp'
 
 def get_dynamo_conn
-  Aws::DynamoDB::Client.new(region: 'us-east-1')
-  #Aws::DynamoDB::Client.new(endpoint: 'http://localhost:8000')
+  #Aws::DynamoDB::Client.new(region: 'us-east-1')
+  Aws::DynamoDB::Client.new(endpoint: 'http://localhost:8000')
 end
 
 def get_dynamodb_conn
-  Aws::DynamoDB::Resource.new(region: 'us-east-1')
-  #Aws::DynamoDB::Resource.new(endpoint: 'http://localhost:8000')
+  #Aws::DynamoDB::Resource.new(region: 'us-east-1')
+  Aws::DynamoDB::Resource.new(endpoint: 'http://localhost:8000')
 end
 
 def setup_table
